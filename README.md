@@ -2,7 +2,7 @@
 
 This repository contains the code used for the research paper:
 
-**Evaluating Class-Weighting and SMOTE for Explainable Employee Attrition Prediction**
+**Evaluating Class-Weighting and SMOTE for Explainable Employee Attrition Prediction** 
 
 ## Dataset
 
